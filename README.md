@@ -69,3 +69,15 @@ Finally the 'Reviews' table consists of about 84,800 rows and 6 columns.
 As the name suggests, it provides details regarding a review given by a past occupant of a particular property. So, the table includes the unique ID of a particular property, the reviewer's ID, name as well as a description of the remark that they gave regarding the property.
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/5338f411-38f4-45d8-bdee-31179d6d7d58)
+
+## The data analysis process
+The initial step in the process pertained to cleaning the tables in the dataset by removing missing avlues and columns attributes which were irrelevant for the analysis.
+
+Different joins such as 'left joins' were perfromed between the tables to prepare the dataset for visualization.
+
+Finally, the cleaned dataset was observed using different visuals and a fully-fledged dashboard was then created within Tableau.
+
+## Conclusion
+The dataset used for this project dates back to 2016 and thus might not provide an accurate representation the Airbnb market trends within Seatle. 
+
+The dashboard can be updated to include data from more recent years to give a more detailed insight on how the market for Airbnb listings within Seatle has shifted within recent years owing to different economical factors as well the outbreak of COVID in late 2019 and 2020.
