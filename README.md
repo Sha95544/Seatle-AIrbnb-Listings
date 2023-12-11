@@ -6,6 +6,42 @@ This is a data visualization project created in Tableau from a Kaggle dataset pe
 The live dashboard can be viewed at the following link:
 https://public.tableau.com/app/profile/shaheer.kamal/viz/SeattleAirbnbOpenDataDashboard/Dashboard1
 
+## Key metrics observed
+
+### Average price of an Airbnb listing
+This is shown as a bar graph and depicts the prices in USD for property listings ranging from those that have just a single bedroom to those that have six bedrooms at max.
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/be1d79ff-f3b3-4b27-922e-c9365e1ee3cf)
+
+
+### Prices by Zipcodes
+This is represented with both a bar graph format as well a more visually appealing map visual.
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/ceda142e-8e2b-452a-b632-4002f12a5878)
+
+
+The map visual segments all of the property listings based on their zipcodes. Hovering over any segment on the map will display the zipcode of that particular locality as well as the average price of an Airbnb located within that vicinity.
+
+### Revenue for the year
+This line chart shows the variation in the total price for all the available Airbnb listings as per the 'Calendar' table throughout 2016.
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/3c1fc8d8-f329-4916-b100-73393c99f7cc)
+
+The prices saw a steady rise from the months 'January' to 'March' and again after 'November'. This could possibly be due to the general perception of favourable weather conditions for tourists coming to Seatle from Janauary to March or due to a higher frequency of leisure actvities or events occuring between these months leading to increased demands and thus higher prices.
+
+Also the period after November might coincide with winter vacations, Christnas and a general holiday season again leading to an increased demand and thus higher Airbnb prices overall.
+
+### Total number of distinct bedroom listings
+The distribution of the Airbnb listings ranging from a single bedroom all the way up to six bedrooms are representted as a table within the dashboard.
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/890750d7-25bd-4a17-8eba-5383ed97aa6f)
+
+The properties with just a single bedroom are the greatest in number as shown by table reaching close to 2000 listings in total while the total number of properties offering two to six bedrooms are approximately 1000 in total, far less than those that offer just a single bedroom.
+
+This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seatle .It could also suggest that the market might be more oriented toward catering to individual travelers, couples, or small groups.
+
+The data may also reflect the competitive landscape in the area. If there are more one-bedroom listings, hosts with larger properties may face less competition within their category.
+
 ## Dataset
 The dataset pertains to Airbnb property lisitngs in Seatle from 2016. It is publically available on Kaggle at the following link:
 https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset/data?select=Tableau+Full+Project.xlsx
