@@ -1,5 +1,5 @@
 # Seatle-AIrbnb-Listings
-This is a data visualization project created in Tableau from a Kaggle dataset pertaining to Airbnb listings in the Seatle area of the US.
+This is a data cleaning and visualization project created in entirely in Tableau from a Kaggle dataset pertaining to Airbnb listings in the Seatle area of the US from 2016
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/3e3f2601-fca4-45a8-8c01-10e27084bf7a)
 
@@ -12,6 +12,10 @@ https://public.tableau.com/app/profile/shaheer.kamal/viz/SeattleAirbnbOpenDataDa
 This is shown as a bar graph and depicts the prices in USD for property listings ranging from those that have just a single bedroom to those that have six bedrooms at max.
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/be1d79ff-f3b3-4b27-922e-c9365e1ee3cf)
+
+The prices can be seen to steadily increase with the number of bedrooms. Larger properties with more bedrooms generally have the capacity to accommodate more guests. Hosts often charge higher prices for properties that can house larger groups of people.
+
+Properties with multiple bedrooms may cater to a different target audience, such as families or larger groups of travelers. Hosts may set prices based on the willingness of these groups to pay more for a larger and more accommodating space as well as additional offered facilities.
 
 
 ### Prices by Zipcodes
