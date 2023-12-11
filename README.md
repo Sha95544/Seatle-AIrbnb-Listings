@@ -18,4 +18,14 @@ It gives details about certain properties such as their unique ID (lisitng_id), 
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/7063b1e5-b8d5-41ac-b394-f18835a31332)
 
+The 'Listings' table is quite extensive comprising of 3818 rows and abut 92 columns .
 
+It details the unique ID, URL, description, zipcode and a whole bunch of differetn attributes regarding a particular property .
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/c64d0e04-e01e-4c46-842a-ee9f243556ab)
+
+Finally the 'Reviews' table consists of about 84,800 rows and 6 columns. 
+
+As the name suggests, it provides details regarding a review given by a past occupant of a particular property. So, the table includes the unique ID of a particular property, the reviewer's ID, name as well as a description of the remark that they gave regarding the property.
+
+![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/5338f411-38f4-45d8-bdee-31179d6d7d58)
