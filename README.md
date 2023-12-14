@@ -14,6 +14,7 @@ This is shown as a bar graph and depicts the prices in USD for property listings
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/be1d79ff-f3b3-4b27-922e-c9365e1ee3cf)
 
+#### Insights
 The prices can be seen to steadily increase with the number of bedrooms. Larger properties with more bedrooms generally have the capacity to accommodate more guests. Hosts often charge higher prices for properties that can house larger groups of people.
 
 Properties with multiple bedrooms may cater to a different target audience, such as families or larger groups of travelers. Hosts may set prices based on the willingness of these groups to pay more for a larger and more accommodating space as well as additional offered facilities.
@@ -32,6 +33,7 @@ This line chart shows the variation in the total price for all the available Air
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/3c1fc8d8-f329-4916-b100-73393c99f7cc)
 
+#### Insight
 The prices saw a steady rise from the months 'January' to 'March' and again after 'November'. This could possibly be due to the general perception of favourable weather conditions for tourists coming to Seatle from Janauary to March or due to a higher frequency of leisure actvities or events occuring between these months leading to increased demands and thus higher prices.
 
 Also the period after November might coincide with winter vacations, Christnas and a general holiday season again leading to an increased demand and thus higher Airbnb prices overall.
@@ -41,6 +43,7 @@ The distribution of the Airbnb listings ranging from a single bedroom all the wa
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/890750d7-25bd-4a17-8eba-5383ed97aa6f)
 
+#### Insights
 The properties with just a single bedroom are the greatest in number as shown by table reaching close to 2000 listings in total while the total number of properties offering two to six bedrooms are approximately 1000 in total, far less than those that offer just a single bedroom.
 
 This implies that there might be a higher demand or preference for smaller accommodations with just a single bedroom within Seatle .It could also suggest that the market might be more oriented toward catering to individual travelers, couples, or small groups.
