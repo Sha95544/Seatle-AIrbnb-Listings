@@ -3,6 +3,7 @@ This is a data cleaning and visualization project created in entirely in Tableau
 
 ![image](https://github.com/Sha95544/Seatle-AIrbnb-Listings/assets/62758405/3e3f2601-fca4-45a8-8c01-10e27084bf7a)
 
+## Live Dashboard
 The live dashboard can be viewed at the following link:
 https://public.tableau.com/app/profile/shaheer.kamal/viz/SeattleAirbnbOpenDataDashboard/Dashboard1
 
